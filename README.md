@@ -7,7 +7,7 @@
 #### - [บทที่ 6 วิธีพยากรณ์ด้วยการเรียนรู้ของเครื่อง](Chapter06/README.md)
 
 ปล. **อยู่ระหว่างกำลังเขียน** 
-โดยเนื้อหา Introduction to Time-Series Analysis ฉบับ Data Science จะให้มี 6 Parts สำคัญ ได้แก่ 
+โดยเนื้อหา Introduction to Time-Series Analysis ฉบับ Data Science จะเสนอตัวอย่างการประประยุกต์ใช้งานได้จริง โดยตั้งใจว่าจะให้มี 6 Parts สำคัญ ได้แก่ 
 * Whis is Time Series Analysis
 * How to Forcasting from Time Series Data
 * How to Forcasting with Box–Jenkins Method
