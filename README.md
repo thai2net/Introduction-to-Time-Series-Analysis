@@ -7,7 +7,7 @@
 #### - [บทที่ 6 วิธีพยากรณ์ด้วยการเรียนรู้ของเครื่อง](Chapter06/README.md)
 
 ปล. **อยู่ระหว่างกำลังเขียน** 
-โดยเนื้อหา Introduction to Time-Series Analysis ฉบับนี้เน้นไปทางด้านสาย Data Scientist และ ทางสาย Developer รวมทั้งผู้ที่สนใจแสวงหาข้อมูลประดับความรู้การจัดการงานด้านนี้ โดยเนื้อหานอกจากทฤษฎีแล้วจะได้เสนอตัวอย่างการประประยุกต์ใช้ ซึ่งตั้งใจว่าจะให้มี 6 Parts สำคัญ ได้แก่ 
+โดยเนื้อหา Introduction to Time-Series Analysis ฉบับนี้เน้นไปทางด้านสาย Data Scientist และ ทางสาย Developer รวมทั้งผู้ที่สนใจแสวงหาข้อมูลประดับความรู้การจัดการงานด้านนี้ โดยเนื้อหานอกจากทฤษฎีแล้วจะได้เสนอตัวอย่างการประประยุกต์ใช้ ซึ่งตั้งใจว่าจะให้มี 6 Parts สำคัญ (ควรทราบ) ได้แก่ 
 * Whis is Time Series Analysis
 * How to Forcasting from Time Series Data
 * How to Forcasting with Box–Jenkins Method
